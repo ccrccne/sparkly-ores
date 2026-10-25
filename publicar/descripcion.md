@@ -16,8 +16,8 @@ Sparkly Ores makes mining cozier. Every ore gets brighter pastel colors and litt
 - **Glow in the dark (optional)**: with OptiFine or Continuity, the ore and its sparkles glow in dark caves.
 
 ### Compatibility
-- **Java Edition 26.3** and **1.21 / 1.21.1**. Pick the file whose name ends in your version.
-- Works with Fabric, NeoForge, Sodium and Iris. The glow needs OptiFine or Continuity.
+- **Java Edition 26.3**, **1.21 / 1.21.1** and **1.20 / 1.20.1**. Pick the file whose name ends in your version.
+- Works with Forge, NeoForge, Fabric, OptiFine, Sodium and Iris. The glow needs OptiFine or Continuity.
 - Not for Bedrock Edition.
 - If another pack also changes ores, put Sparkly Ores above it in the list.
 
@@ -47,8 +47,8 @@ Sparkly Ores hace que minar sea más bonito. Cada mineral tiene colores pastel m
 - **Brillo en la oscuridad (opcional)**: con OptiFine o Continuity, el mineral y sus destellos brillan en las cuevas oscuras.
 
 ### Compatibilidad
-- **Java Edition 26.3** y **1.21 / 1.21.1**. Elige el archivo que termina con tu versión.
-- Funciona con Fabric, NeoForge, Sodium e Iris. El brillo necesita OptiFine o Continuity.
+- **Java Edition 26.3**, **1.21 / 1.21.1** y **1.20 / 1.20.1**. Elige el archivo que termina con tu versión.
+- Funciona con Forge, NeoForge, Fabric, OptiFine, Sodium e Iris. El brillo necesita OptiFine o Continuity.
 - No es para Bedrock.
 
 ### Instalación

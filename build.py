@@ -21,6 +21,7 @@ BLOCK = "assets/minecraft/textures/block/"
 VERSIONS = {
     "26.3": {"min_format": 97, "max_format": 97},
     "1.21.1": {"pack_format": 34},
+    "1.20.1": {"pack_format": 15},
 }
 
 # Rampas de color de oscuro a claro, con la identidad de cada mineral

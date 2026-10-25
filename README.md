@@ -15,11 +15,11 @@ Un paquete de texturas para Minecraft que les da a los minerales colores pastel 
 - **Brillo en la oscuridad** opcional con OptiFine o Continuity (texturas `_e`).
 
 ## Instalación
-1. Descarga el zip de tu versión desde [Releases](https://github.com/ccrccne/sparkly-ores/releases). El nombre termina en `+26.3` o `+1.21.1`.
+1. Descarga el zip de tu versión desde [Releases](https://github.com/ccrccne/sparkly-ores/releases). El nombre termina en `+26.3`, `+1.21.1` o `+1.20.1`.
 2. En Minecraft ve a **Opciones → Paquetes de recursos → Abrir carpeta de paquetes** y pon el zip ahí, sin descomprimir.
 3. Pásalo a la columna de la derecha y pulsa **Listo**.
 
-Funciona en **Minecraft 26.3** y **1.21 / 1.21.1** (Java).
+Funciona en **Minecraft 26.3**, **1.21 / 1.21.1** y **1.20 / 1.20.1** (Java), con Forge, NeoForge, Fabric u OptiFine.
 
 ## Cómo se hace
 - [`build.py`](build.py): lee las texturas originales del juego (de la caché de Fabric Loom), detecta los píxeles del mineral, los pinta con una rampa pastel y arma la animación de destellos.
